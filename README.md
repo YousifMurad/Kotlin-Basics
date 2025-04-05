@@ -2,6 +2,8 @@
 First week projects
 
 - the two tasks are done following the Test-Driven Development (TDD) approach.
+- [Modules](#modules)
+  - [IPv4_scanner](https://github.com/YousifMurad/Kotlin-Basics_first-week/tree/main/src/IPv4_scanner)
+
+  - [sudokuGame_checker]([#module-2-utils](https://github.com/YousifMurad/Kotlin-Basics_first-week/tree/main/src/SudokuGame))
   
-[IPv4_scanner](https://github.com/YousifMurad/Kotlin-Basics_first-week/tree/main/src/IPv4_scanner)
-[sudokuGame_checker]([https://github.com/YousifMurad/Kotlin-Basics_first-week/tree/main/src/IPv4_scanner](https://github.com/YousifMurad/Kotlin-Basics_first-week/tree/main/src/SudokuGame))
