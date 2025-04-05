@@ -1,5 +1,6 @@
 # Kotlin-Basics
 First week projects
 
-- the two tasks following the Test-Driven Development (TDD) approach.
-
+- the two tasks are done following the Test-Driven Development (TDD) approach.
+  
+[IPv4_scanner]([path](https://github.com/YousifMurad/Kotlin-Basics_first-week/tree/main/src/IPv4_scanner)/to/target)
